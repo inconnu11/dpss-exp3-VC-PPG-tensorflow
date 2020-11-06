@@ -21,6 +21,7 @@ This project enables timbre conversion utilizing PPG(Phonetic PosteriorGrams) wh
 
 
 ## Data prepration
+Download [data](https://drive.google.com/file/d/1KnnUUwkFt9st0lqCpqqSIOBuNBnAeYPp/view?usp=sharing) to ```data```.
 Download [pre-trained models](https://drive.google.com/file/d/1JF1WNS57wWcbmn1EztJxh09xU739j4_g/view?usp=sharing) to ```assets```. The assets should look like this:
 
 
